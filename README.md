@@ -22,5 +22,5 @@
  - i->npm install
  - ii->npm run start
 
-  🚴DEPLOYMENT LINK-https://rajesh3815.github.io/wdp-main-projesct/
+  🚴DEPLOYMENT LINK-https://github.com/Malayjena/Github-Profile-Finder.git
   
